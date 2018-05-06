@@ -46,7 +46,7 @@ header .button-search{
 	cursor: pointer;
 }
 .giohang{float: right; margin: 10px 20px; background: #fff;
-	width: 70px;border-radius: 10px; height: 30px; line-height: 30px; text-align: center; 
+	 padding: 0 10px;border-radius: 10px; height: 30px; line-height: 30px; text-align: center; 
 	color: #ff6cbd; font-weight: 600; }
 .giohang:hover{text-decoration: underline;}
 
